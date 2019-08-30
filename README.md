@@ -1,2 +1,3 @@
 # Text-Analysis
-Text classification on given data
+Text classification performed on data provided by BBC News.
+Categories data into 5 Classes.
